@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KevinTheC
+- 👋 Hi, I’m Kevin Culkin
 - 👀 I’m interested in C++, Java, Rust and Typescript 
 - 🌱 I’m currently learning C++ and Java
 - 💞️ I’m looking to collaborate on nothing right now
